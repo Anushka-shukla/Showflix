@@ -1,0 +1,26 @@
+{
+    "DUMMYY_DATA" :  [
+
+    {
+        "id":1,
+        "movieName": "The Shawshank Redemption",
+        "image": "https://www.imdb.com/title/tt0111161/mediaviewer/rm3156049920/",
+        "rating": "9.2",
+        "releaseYr": "1994",
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "cast": "Tom Robins, Morgan Freeman, Bob Guntun"
+    },
+    
+    {
+        "id":2,
+        "movieName": "The Godfather",
+        "image": "https://www.imdb.com/title/tt0068646/mediaviewer/rm746868224/",
+        "rating": "9.2",
+        "releaseYr": "1972",
+        "description": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+        "cast": "Marlon Brando, James Caan"
+    }
+    
+    
+]
+}
